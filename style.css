@@ -14,7 +14,7 @@ header li{
     display:inline-block;
     padding: 16px;
     font-size: 20px;
-    color: blue
+    color: #1076a5;
     
 }
 .logo{
@@ -37,7 +37,8 @@ button{
 
 }
 button:hover ,.logo:hover{
-    color: blue;
+  
+    color: #1076a5;
 }
 
 
